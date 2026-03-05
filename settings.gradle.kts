@@ -22,5 +22,3 @@ dependencyResolutionManagement {
 rootProject.name = "Kotlin Fundamentals"
 include(":app")
 include(":app:lib")
-include(":Tarea_2")
-include(":T2 - POO")
